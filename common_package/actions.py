@@ -17,4 +17,4 @@ def greet() -> str:
     Returns:
         Simple "Hello world" message.
     """
-    return "Hello world!\n"
+    return "Hello world! from common_package\n"
