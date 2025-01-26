@@ -7,9 +7,11 @@
     ],
     "metadata": {
         "actionName": "greet",
-        "actionRelativePath": "actions.py",
+        "actionRelativePath": "common_package/actions.py",
         "schemaDescription": [],
         "managedParamsSchemaDescription": {},
-        "inputFileVersion": "v2"
+        "inputFileVersion": "v3",
+        "kind": "action",
+        "actionSignature": "action/args: ''"
     }
 }
